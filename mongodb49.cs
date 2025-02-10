@@ -1,0 +1,1 @@
+db.accounts.dropIndex("account_holder_1")
